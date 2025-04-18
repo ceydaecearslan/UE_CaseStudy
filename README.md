@@ -1,0 +1,3 @@
+Bu sistem, multiplayer uyumlu olacak şekilde tasarlanmış bir karakter yetenek mekanizmasını içermektedir. Karakter, sol tık ile bir fireball fırlatarak menzilli saldırı gerçekleştirebilir, sağ tık ile ise yere vurarak alan hasarı veren bir yetenek kullanabilir. Her karakterin belirli bir can değeri bulunmakta olup, bu değer diğer oyuncular tarafından widget component aracılığıyla görülebilmektedir. Ayrıca, oyuncuların can durumları ve yetenek bekleme süreleri, kullanıcı arayüzü üzerinde anlık olarak görüntülenmektedir. Sistem, GAS kullanılarak, çok oyunculu senaryolarda senkronize çalışacak şekilde geliştirilmiş olup, ağ üzerinde veri tutarlılığını koruyacak optimizasyonlar içermektedir.
+
+Detaylı bilgi için lütfen CaseStudy.pdf dokümanını inceleyiniz.
